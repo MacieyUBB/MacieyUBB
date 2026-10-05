@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Maciej Grochowski
 
-<!--
-**MacieyUBB/MacieyUBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science — Master's Degree, Semester 1/3
+💻 Interested in software development and new technologies
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ionic
+- Angular
+- RxJS
+- NgRx
+- React
+- Zustand
+- Tanstack Query
+- TypeScript
+- Node.js
+- Python
+- SQL
+- Java
+- Spring
+- Spring Boot
+
+## 📚 Currently learning
+
+- Advanced programming
+- Software engineering
+- Algorithms & data structures
+
+## 🚀 Projects
+
+Here, I'm working on university and personal projects while developing my skills in software development.
+
+---
+
+💡 *Learning, building and improving every day.*
